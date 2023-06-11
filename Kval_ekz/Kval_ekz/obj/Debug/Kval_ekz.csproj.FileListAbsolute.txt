@@ -1,0 +1,12 @@
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\bin\Debug\Kval_ekz.exe.config
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\bin\Debug\Kval_ekz.exe
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\bin\Debug\Kval_ekz.pdb
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.csproj.AssemblyReference.cache
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.Form1.resources
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.Form2.resources
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.Form3.resources
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.Properties.Resources.resources
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.csproj.GenerateResource.cache
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.csproj.CoreCompileInputs.cache
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.exe
+C:\Users\ПК-4\source\repos\Kval_ekz\Kval_ekz\obj\Debug\Kval_ekz.pdb
